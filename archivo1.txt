@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 mi primer comentario para commmit 1 (evoluciono mi rama master)
+=======
+(comentario desde ramna 2 en commit 1)mi primer comentario para commmit 1
+>>>>>>> rama2
 
 este ews mi segundon comentario commit 2
 
